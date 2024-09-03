@@ -25,8 +25,3 @@ This repository holds the code for my personal portfolio website, designed to sh
 - **CSS:** For styling the website, including custom fonts, colors, and responsive design features.
 - **JavaScript:** For adding interactivity to the website, such as animations, form validation, and dynamic content loading.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/personal-portfolio.git
